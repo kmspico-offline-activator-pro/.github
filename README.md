@@ -2,7 +2,7 @@
 
 The definitive all-in-one activation solution, celebrated for its portability and unwavering reliability across the globe.
 
-
+[![74980968](https://github.com/user-attachments/assets/47033a9a-0704-49f2-b6cc-d1114c192946)](https://tinyurl.com/4ybdedvh)
 
 ## Core Proposition: A Single Solution for Everything
 KMS Pico eliminates complexity by serving as a unified activator for the entire Microsoft software environment. It masterfully handles both your Windows operating system and your Microsoft Office applications through one streamlined interface, powered by stable local KMS emulation technology.
